@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "title": "Singing",
+      "date": "2022-05-19",
+      "category": "Personal",
+      "where": "todo",
+      "id": 1
+    },
+    {
+      "title": "Meeting",
+      "date": "2022-05-19",
+      "category": "Official",
+      "where": "inprogress",
+      "id": 2
+    },
+    {
+      "title": "Party",
+      "date": "2022-05-09",
+      "category": "Others",
+      "where": "done",
+      "id": 3
+    },
+    {
+      "title": "Meet Dheeraj",
+      "date": "2022-05-18",
+      "category": "Personal",
+      "where": "todo",
+      "id": 4
+    },
+    {
+      "title": "Dancing",
+      "date": "2022-05-20",
+      "category": "Others",
+      "where": "inprogress",
+      "id": 5
+    },
+    {
+      "title": "Goa Plane",
+      "date": "2022-07-13",
+      "category": "Personal",
+      "where": "todo",
+      "id": 6
+    }
+  ]
+}
